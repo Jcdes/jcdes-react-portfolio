@@ -7,6 +7,8 @@ const projects = [
     description: "A movie recommender built using React",
     image: "/projects/movieapp.png",
     tags: ["React"],
+    demoUrl: "https://movie-3azbilb1v-jcs-projects-2abbfc93.vercel.app/",
+    githubUrl: "https://github.com/Jcdes/MovieApp",
     
   },
 
