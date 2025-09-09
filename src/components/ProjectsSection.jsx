@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/movieapp.png",
     tags: ["React"],
     demoUrl: "https://movie-app-pi-bice-99.vercel.app/",
-    githubUrl: "https://github.com/Jcdes/MovieApp",
+    githubUrl: "",
     
   },
 
